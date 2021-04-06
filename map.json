@@ -123,24 +123,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"audioLoop",
-                 "type":"bool",
-                 "value":false
-                }, 
-                {
-                 "name":"audioVolume",
-                 "type":"string",
-                 "value":"2"
-                }, 
-                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"playground"
-                }, 
-                {
-                 "name":"playAudio",
-                 "type":"string",
-                 "value":"Playground Ambience 3 - QuickSounds.com.mp3"
                 }],
          "type":"tilelayer",
          "visible":false,
