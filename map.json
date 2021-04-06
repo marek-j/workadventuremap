@@ -73,7 +73,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/VirtualOffice\/virtual.json"
+                 "value":"virtual.json"
                 }],
          "type":"tilelayer",
          "visible":true,
