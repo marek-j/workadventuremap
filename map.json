@@ -70,7 +70,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -85,7 +85,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/dQw4w9WgXcQ?controls=0"
+                 "value":"https:\/\/www.youtube.com\/embed\/dQw4w9WgXcQ?controls=0&amp;start=4"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -110,7 +110,7 @@
          "name":"top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -125,12 +125,17 @@
                 {
                  "name":"audioLoop",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }, 
                 {
                  "name":"audioVolume",
                  "type":"string",
                  "value":"2"
+                }, 
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"playground"
                 }, 
                 {
                  "name":"playAudio",
