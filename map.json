@@ -107,7 +107,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http;\/\/marek-j.github.io\/workadventuremap\/dashboard.html"
+                 "value":"https;\/\/marek-j.github.io\/workadventuremap\/dashboard.html"
                 }],
          "type":"tilelayer",
          "visible":true,
