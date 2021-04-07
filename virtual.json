@@ -33,7 +33,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":30,
          "x":0,
          "y":0
@@ -51,7 +51,7 @@
                  "value":"map.json#southstart"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":30,
          "x":0,
          "y":0
@@ -64,12 +64,12 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/teams.microsoft.com\/_#\/pre-join-calling\/19:meeting_NGUyMDYxYTItMDJiZC00YWFhLWI0NWQtYTJhY2UxYWQ5MTY0@thread.v2"
+                 "value":"devcorner"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":30,
          "x":0,
          "y":0
