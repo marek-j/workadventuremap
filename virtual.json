@@ -46,9 +46,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitURL",
                  "type":"string",
-                 "value":"map.json"
+                 "value":"map.json#southstart"
                 }],
          "type":"tilelayer",
          "visible":true,
