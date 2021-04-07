@@ -46,7 +46,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitSceneUrl",
                  "type":"string",
                  "value":"map.json#southstart"
                 }],
@@ -69,7 +69,7 @@
                  "value":"https:\/\/teams.microsoft.com\/_#\/pre-join-calling\/19:meeting_NGUyMDYxYTItMDJiZC00YWFhLWI0NWQtYTJhY2UxYWQ5MTY0@thread.v2"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":30,
          "x":0,
          "y":0
@@ -81,7 +81,7 @@
          "name":"top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":30,
          "x":0,
          "y":0
